@@ -45,7 +45,7 @@ six==1.16.0
 thrift==0.20.0
 tld==0.13
 tomli==2.0.1
-tqdm==4.66.2
+tqdm==4.66.3
 typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.1
